@@ -1,5 +1,4 @@
 ![MasterHead](https://www.netsecurity.com/wp-content/uploads/2020/06/hacker-2371490_1920.jpg)!
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/Ynem_gBRU3YAAAAC/lester-hack.gif">
 <h3 align="center">ROOT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crazystory&label=Profile%20views&color=0e75b6&style=flat" alt="crazystory" /> </p>
